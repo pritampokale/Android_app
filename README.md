@@ -1,2 +1,3 @@
 # Android-APK-
-My Developed android application APK stored in one place.
+
+Pritam Pokale's All android app ( .apk ) files
